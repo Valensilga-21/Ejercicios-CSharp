@@ -1,0 +1,6 @@
+C:\Users\SENA\Documents\CsSharp VSG\Ejercicios C#\Ejercicios\bin\Debug\Ejercicios.dll
+C:\Users\SENA\Documents\CsSharp VSG\Ejercicios C#\Ejercicios\bin\Debug\Ejercicios.pdb
+C:\Users\SENA\Documents\CsSharp VSG\Ejercicios C#\Ejercicios\obj\Debug\Ejercicios.csproj.AssemblyReference.cache
+C:\Users\SENA\Documents\CsSharp VSG\Ejercicios C#\Ejercicios\obj\Debug\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\CsSharp VSG\Ejercicios C#\Ejercicios\obj\Debug\Ejercicios.dll
+C:\Users\SENA\Documents\CsSharp VSG\Ejercicios C#\Ejercicios\obj\Debug\Ejercicios.pdb
