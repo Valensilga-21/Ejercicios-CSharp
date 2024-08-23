@@ -1,0 +1,7 @@
+C:\Users\SENA\Documents\CsSharp VSG\CSharp Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe.config
+C:\Users\SENA\Documents\CsSharp VSG\CSharp Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe
+C:\Users\SENA\Documents\CsSharp VSG\CSharp Ejercicios\Ejercicios\bin\Debug\Ejercicios.pdb
+C:\Users\SENA\Documents\CsSharp VSG\CSharp Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.AssemblyReference.cache
+C:\Users\SENA\Documents\CsSharp VSG\CSharp Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\CsSharp VSG\CSharp Ejercicios\Ejercicios\obj\Debug\Ejercicios.exe
+C:\Users\SENA\Documents\CsSharp VSG\CSharp Ejercicios\Ejercicios\obj\Debug\Ejercicios.pdb
